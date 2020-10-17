@@ -54,4 +54,23 @@ img {
 }
 
 
+/***************
+* MEDIA QUERIES
+***************/
+@media screen and (min-width: 768px) {
 
+  main {
+    width: 90%;
+    justify-content: space-between;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+
+  main {
+    width: 70%;
+    justify-content: space-between;
+  }
+
+}
